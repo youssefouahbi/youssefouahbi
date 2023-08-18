@@ -1,4 +1,4 @@
-- 👋 Hi,I’m youssef ouahbi , moroccain
+- 👋 Hi,I’m youssef ouahbi from morocco
 - 👀 coding
 - 🌱 front-end && back-end
 - 💞️ all about coding
